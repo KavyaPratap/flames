@@ -1,5 +1,5 @@
 # Flames-game
-the fames game, famous among teens, play it at <a>https://kavyapratap.github.io/Flames-game/</a>
+the fames game, famous among teens, play it at <a>https://kavyapratap.github.io/flames/</a>
 <h1>What is FLAMES?</h1>
 Flames is an acronym which stands out for <b>"Friends Lovers Admirers Marriage Enemies 'Secret Lovers'"</b>. This game can determine the relationship between two people with the use of their names. It is usually played among teens to find if they are compatible with their friends (crushes)😆 Well, I played some before and it was fun. Even though some websites use different meanings for the acronym, the words they use are just synonyms to the original, but the meaning above, is the original.
 <h1>Is the FLAMES Game Real?</h1>
